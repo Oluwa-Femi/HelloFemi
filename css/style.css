@@ -106,7 +106,6 @@
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
-    border: 1px solid var(--border-color);
     text-align: center;
     padding: 1.8rem 0rem;
     margin: .9rem 0;
@@ -121,7 +120,7 @@
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand:hover{
-    box-shadow: var(--box-shadow);
+    /* box-shadow: var(--box-shadow); */
     transform: scale(1.1);
 }
 
