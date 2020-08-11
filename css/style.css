@@ -17,7 +17,7 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 500 15px/2px;
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -180,7 +180,7 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px var(--roboto);
+    font: normal 700 25px/12px;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -212,7 +212,7 @@
 }
 
 .site-main .about-area .client .about-client h4{
-    font: normal 500 21px/ 20px var(--roboto);
+    font: normal 500 21px/ 20px;
 }
 
 .site-main .about-area .client .about-client p{
